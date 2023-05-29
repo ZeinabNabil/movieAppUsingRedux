@@ -1,0 +1,14 @@
+.inputs {
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+}
+
+.add_movie_form {
+    width: 50%;
+    margin: auto;
+}
+
+.inputs input {
+    margin-bottom: 10px;
+}
